@@ -3,7 +3,7 @@ GitHub 기초 과제 공지
 과제 내용
 1. 레포지토리 클론 및 최신 상태 
 
-2. src 패키지 안에 본인 이름을 파일명으로 하는 클래스 파일 생성
+2. GitTestProject안에 src 패키지에 본인 이름을 파일명으로 하는 클래스 파일 생성
 -예: SangJun.java
 -내용은 단순히 main 메서드에서 "hello" 출력 정도면 충분합니다.
 
@@ -12,3 +12,5 @@ GitHub 기초 과제 공지
 -예: feature/sangjun
 
 4.GitHub에서 Pull Request(PR) 생성 → main 브랜치로 머지
+
+최대한 스스로 해결해보시고 어려움있으시면 연락주세요
